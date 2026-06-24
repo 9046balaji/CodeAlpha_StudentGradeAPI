@@ -86,3 +86,15 @@ The in-memory database records can be inspected in real-time at:
 * **JDBC URL:** `jdbc:h2:mem:gradedb`
 * **Username:** `sa`
 * **Password:** *(leave blank)*
+
+---
+
+## 📸 Output Screenshots
+
+Here are the successful execution results of the Student Grade API project:
+
+![App Dashboard Screenshot](outputs/image.png)
+
+![Tests & DB Screenshot](outputs/Screenshot%202026-06-24%20092712.png)
+
+![Code Check Screenshot](outputs/Screenshot%202026-06-24%20092721.png)
