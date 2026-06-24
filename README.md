@@ -93,8 +93,8 @@ The in-memory database records can be inspected in real-time at:
 
 Here are the successful execution results of the Student Grade API project:
 
-![App Dashboard Screenshot](outputs/image.png)
+![App Dashboard Screenshot](outputs/Screenshot%202026-06-24%20092712.png)
 
-![Tests & DB Screenshot](outputs/Screenshot%202026-06-24%20092712.png)
+![Tests & DB Screenshot](outputs/Screenshot%202026-06-24%20092721.png)
 
-![Code Check Screenshot](outputs/Screenshot%202026-06-24%20092721.png)
+![Code Check Screenshot](outputs/image.png)
